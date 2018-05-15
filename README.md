@@ -2,11 +2,15 @@
 
 ## What?
 
-Here is my personal landing page using [GitHub Pages](https://pages.github.com/).
+Here is a repo for my personal landing page .
+
+You can see my page [here](https://baptistefkt.github.io)
 
 ## How?
 
-For creating this page, I used the great work of [Dinesh Pandiyan](https://github.com/flexdinesh)
+It is easy to create a landing page using [GitHub Pages](https://pages.github.com/).
+
+For creating my page, I used the work of [Dinesh Pandiyan](https://github.com/flexdinesh).
 
 [Here](https://github.com/flexdinesh/dev-landing-page#github-pages) you can find instructions to do your own **Dev Landing Page**
 
